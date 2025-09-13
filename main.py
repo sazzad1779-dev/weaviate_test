@@ -36,7 +36,7 @@ try:
         skip_init_checks=True,
     )
 
-    coll_name = "MySimpleCollection1"
+    coll_name = "MySimpleCollection2"
 
     # -------------------------------------------------
     # Create collection if it doesn't already exist
