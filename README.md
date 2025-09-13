@@ -1,4 +1,5 @@
 ## weaviate vector Database Test
+this is an example to connect with docker based weaviate, deployed in aws cloud service.
 
 
 ## Backup in S3
